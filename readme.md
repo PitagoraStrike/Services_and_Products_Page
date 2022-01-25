@@ -31,7 +31,7 @@ nuestros clientes acerca de servicios y productos dando una mejor experiencia y 
 - Visualizar el sitio como una página profesional de Servicios y Productos
 
 ### LINK
-Solution URL:  [https://designcardpitagorastrike.netlify.app/](https://designcardpitagorastrike.netlify.app/)
+Solution URL:  [https://servicespage.netlify.app/](https://designcardpitagorastrike.netlify.app/)
 
 ### ¿COMENTARIOS?
 Si tienes comentarios o dudas no dudes en escribirme en mis redes sociales
